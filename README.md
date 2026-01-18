@@ -20,7 +20,7 @@ This GitHub showcases **hands-on AWS labs and real-world cloud projects** demons
 
 ---
 
-## 🚀 Cloud Projects
+<h2>👨‍💻 Cloud Projects:</h2>
 
 ### 🔹 Scalable Web Application on AWS
 **Services:** EC2, ALB, Auto Scaling, RDS, S3  
