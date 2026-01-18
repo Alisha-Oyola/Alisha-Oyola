@@ -1,5 +1,5 @@
 # Hi, I'm Alisha 👋  
-<br/><aCloud Engineer</a> | AWS | Infrastructure & Automation
+<br/><a>Cloud Engineer</a> | AWS | Infrastructure & Automation
 
 I design and build cloud infrastructure with a focus on reliability, security, and scalability.  
 This GitHub showcases **hands-on AWS labs and real-world cloud projects** demonstrating practical cloud engineering skills.
