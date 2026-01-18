@@ -28,7 +28,7 @@ This GitHub showcases **hands-on AWS labs and real-world cloud projects** demons
 - Implemented load balancing and automatic scaling  
 - Secured access using IAM roles and security groups  
 
-📂 Repo: [Scalable Web App Project](https://github.com/YourUsername/Project-Repo)
+📂 Repo: [Cloud Project](https://github.com/Alisha-Oyola/Cloud-Projects)
 
 ---
 
