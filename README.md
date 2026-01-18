@@ -70,4 +70,4 @@ Each lab includes:
 
 ---
 
-⭐ Feel free to explore my repositories and reach out!
+⭐ Feel free to explore my repositories and reach out! ⭐
