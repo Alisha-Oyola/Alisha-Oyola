@@ -37,7 +37,7 @@ This GitHub showcases **hands-on AWS labs and real-world cloud projects** demons
 These labs demonstrate **real-world AWS tasks** and architecture decisions.
 
 📂 **AWS Labs Portfolio:**  
-👉 [AWS-Labs-Portfolio](https://github.com/YourUsername/AWS-Labs-Portfolio)
+👉 [AWS-Labs-Portfolio](https://github.com/Alisha-Oyola/AWS-Labs-Portfolio)
 
 **Examples:**
 - EC2 instance lifecycle & EBS snapshot management  
