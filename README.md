@@ -34,7 +34,8 @@ This GitHub showcases **hands-on AWS labs and real-world cloud projects** demons
 
 ## 🧪 Hands-On AWS Labs
 
-These labs demonstrate **The clients problem, how it was remedied, tools used** and architecture decisions.
+Practical exercises illustrating **cloud architecture, infrastructure as code, and operational best practices**.  
+providing tangible proof of hands-on experience.
 
 📂 **AWS Labs Portfolio:**  
 👉 [AWS-Labs-Portfolio](https://github.com/Alisha-Oyola/AWS-Labs-Portfolio)
