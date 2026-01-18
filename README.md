@@ -20,7 +20,7 @@ This GitHub showcases **hands-on AWS labs and real-world cloud projects** demons
 
 ---
 
-<h2>👨‍💻 Cloud Projects:</h2>
+<h2>☁️ Cloud Projects:</h2>
 
 ### 🔹 Scalable Web Application on AWS
 **Services:** EC2, ALB, Auto Scaling, RDS, S3  
@@ -34,7 +34,7 @@ This GitHub showcases **hands-on AWS labs and real-world cloud projects** demons
 
 ## 🧪 Hands-On AWS Labs
 
-These labs demonstrate **real-world AWS tasks** and architecture decisions.
+These labs demonstrate **The clients problem, how it was remedied, tools used** and architecture decisions.
 
 📂 **AWS Labs Portfolio:**  
 👉 [AWS-Labs-Portfolio](https://github.com/Alisha-Oyola/AWS-Labs-Portfolio)
@@ -46,7 +46,7 @@ These labs demonstrate **real-world AWS tasks** and architecture decisions.
 - Serverless APIs using Lambda & API Gateway  
 
 Each lab includes:
-- Real-world problem scenario  
+- Client problem scenario  
 - Architecture explanation  
 - Design decisions  
 - Challenges and lessons learned  
@@ -63,7 +63,7 @@ Each lab includes:
 
 ---
 
-## 📫 Connect With Me
+## 📩 Connect With Me
 
 - **LinkedIn:** https://linkedin.com/in/yourprofile  
 - **Email:** your.email@example.com  
