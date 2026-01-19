@@ -67,7 +67,7 @@ Each lab includes:
 ## 📩 Connect With Me
 
 - **LinkedIn:** https://linkedin.com/in/yourprofile  
-- **Email:** your.email@example.com  
+- **Email:** Alishainthecloud@gmail.com  
 
 ---
 
